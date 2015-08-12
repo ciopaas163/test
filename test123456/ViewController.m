@@ -20,6 +20,7 @@
     NSLog(@"123");
     NSLog(@"111");
     NSLog(@"11111");
+    NSLayoutRelationGreaterThanOrEqual;
 }
 
 - (void)didReceiveMemoryWarning {
